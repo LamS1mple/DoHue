@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  margin: 0px;
+  font-family:  "Merriweather" ,Arial, Helvetica, sans-serif;
+}
+.sun{
+  position: absolute;
+  left: 10px;
+  margin-top: 20px;
+  height: 200px;
+}
+.me {
+  font-family: "Sacramento" , "Merriweather" ,Arial, Helvetica, sans-serif;
+  font-size: 5rem;
+  margin-top: 0;
+  padding-top: 50px;
+  /* line-height: 2; */
+}
+.top {
+  text-align: center;
+  padding-bottom:30px ;
+  background-color: #b9f3e4;
+  position: relative;
+}
+.cloud-top {
+  position: absolute;
+  margin-top: 10px;
+
+}
+.cloud-bottom {
+  position: absolute;
+}
+.skill {
+  margin: 30px auto 30px auto;
+  text-align: center;
+  position: relative;
+}
+.computer {
+  height: 200px;
+  border-radius: 100%;
+}
+.content {
+  margin: 0 20px 0 20px;
+  position: relative;
+  top: -100px;
+  text-align: start;
+  width: 300px;
+  height: 100%;
+  display: inline-block;
+}
+.tieu-de{
+  color: #11999E;
+}
